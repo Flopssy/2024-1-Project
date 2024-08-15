@@ -1,4 +1,3 @@
-# 2024-1-Project
+# 2024-1 Project
 
-* 2024 07 12
-아이디어 계획 및 구상
+1. Google Calender API 사용을 위한 OAuth 2.0 ID 발급
