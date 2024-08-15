@@ -4,7 +4,8 @@
 -
 1. Google Calender API 사용을 위한 OAuth 2.0 ID 발급
 2. Google API에서 제공한 quickstart.py 예제를 사용하여 Google Calendar API 접근 확인
-3. 기상청 API에 접근하여 기상 정보 수집 확인
+3. 기상청 API에 접근하여 날씨 데이터 접근 확인
+4. 기온에 따른 의상 추천 알고리즘 설계 및 구현
 
 코드 설명
 -
